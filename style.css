@@ -1,0 +1,12 @@
+body { font-family: Arial, sans-serif;background-color: #f5B516; }
+h1 { color: #f57516; }
+h2 { font-size: 1.5em; }
+h3 { font-size: 1.3em; }
+p { font-size: 1.2em; }
+.bold { font-weight: bold; }
+.small-text { font-size: 0.8em; }
+ul { list-style-type: square; }
+dl { margin-top: 20px; }
+dt { font-weight: bold; }
+dd { margin-left: 20px; }
+img { width: 100px; height: auto; }
